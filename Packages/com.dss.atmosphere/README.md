@@ -32,6 +32,6 @@ This tool requires a graphics card that supports the following Unity features:
 
 ## Results
 
-![midday](https://i.imgur.com/ewiTBgX.png)
-![sunset](https://i.imgur.com/FI0mD97.png)
-![twilight](https://i.imgur.com/FRgBzV9.png)
+![midday](../../img/ewiTBgX.png)
+![sunset](../../img/FI0mD97.png)
+![twilight](../../img/FRgBzV9.png)

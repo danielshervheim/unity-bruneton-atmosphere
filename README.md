@@ -46,9 +46,9 @@ Please see the [readme](Packages/com.dss.atmosphere/README.md) in the package di
 
 ## Results
 
-![midday](https://i.imgur.com/ewiTBgX.png)
-![sunset](https://i.imgur.com/FI0mD97.png)
-![twilight](https://i.imgur.com/FRgBzV9.png)
+![midday](img/ewiTBgX.png)
+![sunset](img/FI0mD97.png)
+![twilight](img/FRgBzV9.png)
 
 ## Credit
 
